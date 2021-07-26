@@ -1,0 +1,7 @@
+Statistics:
+1. Under Weight = 0
+2. Normal Weight = 2            
+3. Over Weight = 1 
+4. Moderately Obese = 3            
+5. Serverely Obese = 0 
+6. Very Severely Obese = 0.
